@@ -22,30 +22,31 @@ A simple Java console-based game where you try to guess the number randomly chos
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/GuessTheNumber.git
+   git clone "https://github.com/developer-sutapa/Guess-The-Number.java/blob/main/README.md"
+
 ````
 
 2. Navigate to the project folder
 
-   ```bash
+   ```
    cd GuessTheNumber
    ```
 
 3. Compile the Java file
 
-   ```bash
+   ```
    javac GuessTheNumber.java
    ```
 
 4. Run the program
 
-   ```bash
+   ```
    java GuessTheNumber
    ```
 
 ---
 
-## 🎮 Example Gameplay
+## 💁‍♀️🎮 Example Gameplay
 
 ```
 Welcome to Guess the Number Game!
