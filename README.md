@@ -21,10 +21,10 @@ A simple Java console-based game where you try to guess the number randomly chos
 ## 🚀 How to Run
 
 1. Clone this repository  
-   ```bash
+   ```
    git clone "https://github.com/developer-sutapa/Guess-The-Number.java/blob/main/README.md"
-
 ````
+---
 
 2. Navigate to the project folder
 
