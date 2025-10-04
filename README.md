@@ -32,11 +32,15 @@ A simple Java console-based game where you try to guess the number randomly chos
    cd GuessTheNumber
    ```
 
+---
+
 3. Compile the Java file
 
    ```
    javac GuessTheNumber.java
    ```
+
+---
 
 4. Run the program
 
