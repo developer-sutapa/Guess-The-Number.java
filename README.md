@@ -1,8 +1,3 @@
-Here’s a fun **README.md** suggestion for your **Guess the Number** project with emojis 🎉 and a picture placeholder that you can replace with a real screenshot of your game (or even an illustration).
-
----
-
-````markdown
 # 🎯 Guess The Number Game  
 
 Welcome to **Guess the Number Game**!  
@@ -11,7 +6,7 @@ A simple Java console-based game where you try to guess the number randomly chos
 ---
 
 ## 📸 Screenshot
-![Game Screenshot](./screenshot.png)   
+<img width="1536" height="1024" alt="ChatGPT Image Oct 5, 2025, 12_24_34 AM" src="https://github.com/user-attachments/assets/08ae06df-05c6-4c61-b8e9-e88249cad164" />
 
 ---
 
