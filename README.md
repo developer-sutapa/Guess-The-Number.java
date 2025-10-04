@@ -22,9 +22,8 @@ A simple Java console-based game where you try to guess the number randomly chos
 
 1. Clone this repository  
    ```
-   git clone "https://github.com/developer-sutapa/Guess-The-Number.java/blob/main/README.md"
+   git clone "https://github.com/developer-sutapa/Guess-The-Number.java/edit/main/README.md"
 ````
----
 
 2. Navigate to the project folder
 
@@ -32,25 +31,21 @@ A simple Java console-based game where you try to guess the number randomly chos
    cd GuessTheNumber
    ```
 
----
-
 3. Compile the Java file
 
-   ```
+   ```bash
    javac GuessTheNumber.java
    ```
 
----
-
 4. Run the program
 
-   ```
+   ```bash
    java GuessTheNumber
    ```
 
 ---
 
-## 💁‍♀️🎮 Example Gameplay
+## 🎮 Example Gameplay
 
 ```
 Welcome to Guess the Number Game!
@@ -61,7 +56,7 @@ Too high! Try again.
 Enter your guess: 25
 Too low! Try again.
 Enter your guess: 30
-🥳Congratulations! You guessed the correct number in 3 tries.
+Congratulations! You guessed the correct number in 3 tries.
 ```
 
 ---
@@ -81,13 +76,16 @@ Enter your guess: 30
 * Add a replay option 🔁
 
 ---
-🔗👩🏻‍💻Author
+##🔗👩🏻‍💻Author
+
 ---
+
 Sutapa Das
 🌐 GitHub: developer-sutapa
 📧 Email :dassutapa20232023@gmail.com
 ```
 
 ---
+
 👩‍💻 Developed with ❤️ using Java.
 ```
